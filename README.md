@@ -1,0 +1,4 @@
+gjjj
+====
+
+&lt;div class="live-tile me slide ha bounce" data-mode="slide" data-stops="50%,100%,0px" data-link="/about" data-bounce="true" data-stack="true" data-delay="4250" style="cursor: pointer;">                     &lt;div class="slide-front ha" style="-webkit-transition: top 500ms; top: 100%;">&lt;img class="full" src="http://sphotos-e.ak.fbcdn.net/hphotos-ak-ash3/557550_10151123136291037_440376444_n.jpg" alt="Drew Greenwell">&lt;/div>                     &lt;div class="slide-back ha" style="top: 0%; -webkit-transition: top 500ms;">&lt;span class="bottom metroExtraLarge">Me&lt;/span>&lt;/div>                 &lt;/div>
